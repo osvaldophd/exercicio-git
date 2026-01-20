@@ -6,4 +6,6 @@ para colaboração da equipa.
 
 **Autor**: Osvaldo Avelino
 
+**data**: 20 janeiro 2026
+
 meu Osvaldo: https://github.com/osvaldophd/exercicio-git.git 
