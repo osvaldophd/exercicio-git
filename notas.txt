@@ -1,0 +1,8 @@
+Se quiseres, posso:
+padronizar mensagens de commit (Conventional Commits)
+sugerir nomes melhores para branches
+ajudar a resolver conflitos de merge 👌
+
+
+Dica: Use git status sempre que tiver dúvidas sobre o estado actual do repositório. Em caso de erro, não
+entre em pânico – analise a mensagem e tente compreender o que aconteceu.
